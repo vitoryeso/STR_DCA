@@ -1,0 +1,5 @@
+C:/Users/X/repos/str_dca/projects/build-ProjetoSTR_1-Desktop_Qt_6_1_2_MinGW_64_bit-Debug/CMakeFiles/ProjetoSTR_1.dir
+C:/Users/X/repos/str_dca/projects/build-ProjetoSTR_1-Desktop_Qt_6_1_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/X/repos/str_dca/projects/build-ProjetoSTR_1-Desktop_Qt_6_1_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/X/repos/str_dca/projects/build-ProjetoSTR_1-Desktop_Qt_6_1_2_MinGW_64_bit-Debug/CMakeFiles/ProjetoSTR_1_autogen_timestamp_deps.dir
+C:/Users/X/repos/str_dca/projects/build-ProjetoSTR_1-Desktop_Qt_6_1_2_MinGW_64_bit-Debug/CMakeFiles/ProjetoSTR_1_autogen.dir
